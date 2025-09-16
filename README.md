@@ -26,5 +26,3 @@
 
 ###
 
-## Meu Gráfico de Contribuições Animado
-![snake animation](https://github.com/SEU-NOME-DE-USUARIO/SEU-NOME-DE-USUARIO/blob/output/github-contribution-grid-snake.svg)
