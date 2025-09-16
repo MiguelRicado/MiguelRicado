@@ -22,7 +22,7 @@ jobs:
         id: snake-gif
         with:
           # Substitua pelo seu nome de usuário do GitHub
-          github_user_name: SEU-NOME-DE-USUARIO
+          github_user_name: MiguelRicado
           # Lista de saídas que serão geradas
           outputs: |
             dist/github-contribution-grid-snake.svg
