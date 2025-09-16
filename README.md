@@ -26,5 +26,3 @@
 
 ###
 
-## Meu Gráfico de Contribuições Animado
-![snake animation](https://github.com/MiguelRicado/MiguelRicado/blob/output/github-contribution-grid-snake.svg)
